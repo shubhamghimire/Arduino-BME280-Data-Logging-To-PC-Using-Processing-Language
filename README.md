@@ -2,6 +2,12 @@
 
 The main thing is Arduino itself can’t write the data to PC, it can only send the data to Serial Monitor. So, we have to use third-party tools or languages for this process. You can use either Python or Processing language to fetch and save the data from Arduino serial monitor. I am using Processing language for this time. I am going to use Arduino Uno with BME 280 Sensor by Adafruit which measure Temperature, Pressure and Humidity. The altitude value will be calculated using the current pressure value.
 
+# Items Used
+
+- Arduino UNO Rev3 (https://store.arduino.cc/usa/arduino-uno-rev3)
+- Arduino IDE v1.8.13 (https://www.arduino.cc/en/software)
+- BME280 Sensor (https://www.adafruit.com/product/2652)
+- Processing IDE (https://processing.org/reference/environment/)
 
 # Implementation Method
 
