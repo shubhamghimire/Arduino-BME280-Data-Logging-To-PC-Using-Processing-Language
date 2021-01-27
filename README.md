@@ -4,10 +4,10 @@ The main thing is Arduino itself can’t write the data to PC, it can only send 
 
 # Items Used
 
-- [Arduino UNO Rev3] (https://store.arduino.cc/usa/arduino-uno-rev3)
-- [Arduino IDE v1.8.13] (https://www.arduino.cc/en/software)
-- [BME280 Sensor] (https://www.adafruit.com/product/2652)
-- [Processing IDE] (https://processing.org/reference/environment/)
+- [Arduino UNO Rev3](https://store.arduino.cc/usa/arduino-uno-rev3)
+- [Arduino IDE v1.8.13](https://www.arduino.cc/en/software)
+- [BME280 Sensor](https://www.adafruit.com/product/2652)
+- [Processing IDE](https://processing.org/reference/environment/)
 
 # Implementation Method
 
